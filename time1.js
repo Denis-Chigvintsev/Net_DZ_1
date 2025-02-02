@@ -50,7 +50,7 @@ if (!argv.y && !argv.m && !argv.d && !argv.h && !argv.n && !argv.s && !argv.t) {
   console.log('current -d : вывод текущего дня');
   console.log('current -h : вывод текущего часа');
   console.log('current -n : вывод текущей минуты');
-  console.log('current -d : вывод текущей секунды');
+  console.log('current -s : вывод текущей секунды');
   console.log('current -t : вывод полного текущего времени');
   console.log('');
   console.log('*******************************************');
