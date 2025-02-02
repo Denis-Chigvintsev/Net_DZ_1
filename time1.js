@@ -36,7 +36,7 @@ if (argv.s) {
 }
 
 if (argv.t) {
-  console.log(`полное текущее время : ${date}`);
+  console.log(`полное текущее время : ${date.toString()}`);
 }
 
 if (!argv.y && !argv.m && !argv.d && !argv.h && !argv.n && !argv.s && !argv.t) {
